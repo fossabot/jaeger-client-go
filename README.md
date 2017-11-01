@@ -1,4 +1,5 @@
 [![GoDoc][doc-img]][doc] [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov] [![OpenTracing 1.0 Enabled][ot-img]][ot-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaegertracing%2Fjaeger-client-go.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaegertracing%2Fjaeger-client-go?ref=badge_shield)
 
 # Jaeger Bindings for Go OpenTracing API
 
@@ -230,3 +231,6 @@ However it is not the default propagation format, see [here](zipkin/README.md#Ne
 [cov]: https://codecov.io/gh/jaegertracing/jaeger-client-go
 [ot-img]: https://img.shields.io/badge/OpenTracing--1.0-enabled-blue.svg
 [ot-url]: http://opentracing.io
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaegertracing%2Fjaeger-client-go.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaegertracing%2Fjaeger-client-go?ref=badge_large)
